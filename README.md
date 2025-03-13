@@ -1,11 +1,11 @@
-#Autonomous Faucet Project
+# Autonomous Faucet Project
 
-#Overview
+# Overview
 
 The Autonomous Faucet project utilizes ROBOTC programming to automate the handwashing and soap dispensing process using ultrasonic sensors and motors, enabling touchless, hygienic operation.
 
 
-#Software Implementation
+# Software Implementation
 
 The software, fully developed in ROBOTC, prioritizes accurate sensor data processing and motor control to create a seamless, touch-free experience. The codebase follows a modular structure:
 
