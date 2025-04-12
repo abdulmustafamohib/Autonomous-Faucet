@@ -43,7 +43,7 @@ A smart faucet automation system built with LEGO EV3 and programmed in ROBOTC (a
 
 - PC File IO library (PC_FileIO.c) for reading/writing temperature preferences
 
-##🧠 Key Modules
+## 🧠 Key Modules
 turnOnFaucetHandles(int temperature)
 - Activates hot/cold motors based on selected temperature
 - Monitors hand presence and retracts motors once hands are removed or timeout reached
